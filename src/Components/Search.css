@@ -1,0 +1,45 @@
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+.searchbar{
+text-align: center;
+padding: 10px;
+margin: 0px auto;
+}
+
+.searchbartext{
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+color: black;
+text-align: center;
+font-weight: bold;
+position: absolute;
+height: 135px;
+width: 1000px;
+left: calc(50% - 462px/2 - 451px);
+top: calc(50% - 135px/2 - 35.5px);
+
+}
+
+.companylogo{
+    height: 100px;
+    width: 100px;
+}
+.tablechart{
+    margin-top: 500px;
+}
+
+.searchbutton{
+    position: absolute;
+    width: 64px;
+    height: 24px;
+    left: 1280px;
+    top: 476px;
+}

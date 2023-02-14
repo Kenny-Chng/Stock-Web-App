@@ -1,0 +1,38 @@
+.frontpagedisplay{
+  position: absolute;
+  width: 1350px;
+  height: 152px;
+  left: 277px;
+  top: 157px;
+  
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 96px;
+  
+  color: #000000;
+
+
+  
+}
+.textcard{
+margin: auto;
+border: 3px solid grey;
+padding: 10px;
+
+text-align: center;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
